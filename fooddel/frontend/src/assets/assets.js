@@ -5,6 +5,7 @@ import profile_image from './profile_image.png'
 import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 import basket_icon from './basket_icon.png'
+import rating_starts from './rating_starts.png'
 
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
@@ -56,7 +57,8 @@ export const assets ={
     profile_image,
     upload_area,
     parcel_icon,
-    basket_icon
+    basket_icon,
+    rating_starts
     
 }
 export const menu_list = [
